@@ -1,0 +1,28 @@
+ngfts.lge.com
+*.ad.lgsmartad.com
+lgad.cjpowercast.com
+edgesuite.net 
+*.info.lgsmartad.com
+ad.lgappstv.com
+smartclip.com
+smartclip.net
+smartshare.lgtvsdp.com
+us.ibs.lgappstv.com
+*.ibs.lgappstv.com
+us.lgtvdp.com
+*.lgtvdp.com
+us.rdx2.lgtvsdp.com
+*.rdx2.lgtvsdp.com
+yumenetworks.com
+aic-ngfts.lge.com
+# voice search disable
+fm.nvc.enus.nuancemobility.net
+fx.nvc.enus.nuancemobility.net
+lgtvonline.lge.com
+# lg webos auto update disable
+snu.lge.com
+su.lge.com
+lge.com
+# roku
+logs.roku.com
+*.logs.roku.com
